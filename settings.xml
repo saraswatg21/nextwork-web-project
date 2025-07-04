@@ -25,7 +25,7 @@
     <id>nextwork-MavenArtifact</id>
     <name>nextwork-MavenArtifact</name>
     <url>https://nextwork-183631339293.d.codeartifact.eu-north-1.amazonaws.com/maven/MavenArtifact/</url>
-    <mirrorOf>*</mirrorOf>
+    <mirrorOf>nextwork-MavenArtifact</mirrorOf>
   </mirror>
 </mirrors>
 </settings>
